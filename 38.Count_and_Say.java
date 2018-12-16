@@ -52,7 +52,7 @@ class Solution {
                 count++;
                 j++;
             }
-			//两个append一起用也很有意思
+			//两个append一起用也很有意思i
             sb.append(count).append(pre[i]);
             i = j;
         }
